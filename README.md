@@ -23,22 +23,22 @@ This project simulates a **real-world SQL data analysis workflow**, focusing on 
 
 ## Project Structure  
 
-SQL_Customer_Order_Sales_Analysis/
-│
-├── scripts/
-│   ├── 00_eda_and_data_analysis.sql
-│   ├── 01_customer_report.sql
-│   └── 02_product_report.sql
-│
-├── dataset/
-│   ├── gold.fact_sales.csv
-│   ├── gold.dim_customers.csv
-│   ├── gold.dim_products.csv
-│   ├── gold.report_customers.csv
-│   └── gold.report_products.csv
-│
-├── README.md
-└── insight_report.pdf  # (Placeholder – to be added shortly)
+- SQL_Customer_Order_Sales_Analysis/
+- │
+- ├── scripts/
+- │   ├── 00_eda_and_data_analysis.sql
+- │   ├── 01_customer_report.sql
+- │   └── 02_product_report.sql
+- │
+- ├── dataset/
+- │   ├── gold.fact_sales.csv
+- │   ├── gold.dim_customers.csv
+- │   ├── gold.dim_products.csv
+- │   ├── gold.report_customers.csv
+- │   └── gold.report_products.csv
+- │
+- ├── README.md
+- └── insight_report.pdf  # (Placeholder – to be added shortly)
 ---
 ## 📈 Key Analyses Performed  
 - **Sales Trends** → Monthly and yearly performance tracking.  
